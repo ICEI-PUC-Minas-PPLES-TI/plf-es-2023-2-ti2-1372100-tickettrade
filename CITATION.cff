@@ -1,4 +1,4 @@
----
+title: TicketTrade
 authors:
   - family-names: Salim
     given-names: Joao Victor
@@ -28,10 +28,15 @@ keywords:
   - Banco de Dados
   - Backend e Frontend
   - Ingresso
+message: |
+  "If you use this software, please cite it using these metadata.
+  Se você utilizar este software, por favor cite-o utilizando estes metadados."
 repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti2-1372100-tickettrade
-title: TicketTrade
 abstract: >
+  "
   O projeto TicketTrade se baseia no desenvolvimento de um software
-  funcional com o objetivo de 
+  funcional com o objetivo de facilitar a compra e revenda de ingressos para eventos de entretenimento.
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti2-1372100-healthassist
 
-  facilitar a compra e revenda de ingressos para eventos de entretenimento.
+  "
+date-released: 2023-12-21
